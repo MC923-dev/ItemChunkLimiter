@@ -1,0 +1,5 @@
+name: ItemLimiter
+version: 1.0
+main: itemlimiter.ItemLimiter
+
+author: mc923
